@@ -15,4 +15,4 @@ sudo ./scrpt_name.sh
 ```
 4. Enjoy
 
-If you need any help, you can open an issue or contact me on Discord: Vesk0#4059
+If you need any help, you can open an issue or contact me on Discord: Vesk0#2407
